@@ -36,4 +36,5 @@ public class Main {
         logger.info("PATH NOT COMPUTED");
         logger.info("** End of MazeRunner");
     }
+    //
 }
